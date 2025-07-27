@@ -1,1 +1,1 @@
-
+## The training set consists of 408 sequences, in which 204 are calcium ion inhibitors (positive) and 204 are non-inhibitors (negative). On the other hand, the test set contains 102 sequences, in which 51 are positive samples and 51 are negative samples. 
