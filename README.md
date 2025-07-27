@@ -20,4 +20,10 @@ The movement of calcium ions across cell membranes is vital for processes such a
 <br>
 
 # Architecture
-<img src="Architecture.png" alt="Alt text" title="PredCaII Method Architecture">
+<img src="Figures/Architecture_final.png" alt="Alt text" title="PredCaII Method Architecture">
+
+<br>
+<br>
+
+# Training Validation Curves
+<img src="Figures/training_validation_curves.png" alt="Alt text" title="Validation Curves">
